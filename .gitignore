@@ -22,6 +22,9 @@ DerivedData
 *.xcuserstate
 **/.xcode.env.local
 
+# **NEW:** Ignore Firebase iOS configuration file for security
+ios/FamilyConnect/GoogleService-Info.plist
+
 # Android/IntelliJ
 #
 build/
@@ -34,6 +37,9 @@ local.properties
 *.keystore
 !debug.keystore
 .kotlin/
+
+# **NEW:** Ignore Firebase Android configuration file for security
+android/app/google-services.json
 
 # node.js
 #
@@ -73,3 +79,4 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
