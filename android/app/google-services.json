@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "930380993136",
+    "project_id": "familyconnect-eb9b3",
+    "storage_bucket": "familyconnect-eb9b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930380993136:android:80db0cbba745fb2b701ab5",
+        "android_client_info": {
+          "package_name": "com.familyconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930380993136-asu260nv56ctgocsthf3k7rr10l4id7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.familyconnect",
+            "certificate_hash": "01b7735508bbe7f6d7fdc2f10462ae8d21eb20b0"
+          }
+        },
+        {
+          "client_id": "930380993136-kue9ua50camn3gn4cj8ml94t5b9a45qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.familyconnect",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "930380993136-7s41s52qsravho7ot8jtimgaf00jp3bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl3G83tbefAUQpRbFESQiBpDpQtolxHMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930380993136-7s41s52qsravho7ot8jtimgaf00jp3bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930380993136-qpkibroe469iqqf7ddguc8a4fs5pj2t3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FamilyConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
