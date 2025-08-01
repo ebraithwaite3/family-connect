@@ -7,7 +7,7 @@ export const getIcalEvents = async (icalUrl: string) => {
       const icalData = await response.text();
       console.log('iCal data received, length:', icalData.length);
   
-      // Debug: Show first 500 characters
+      // Debug: Show first 500 characters!
       console.log('First 500 chars:', icalData.substring(0, 500));
   
       const events = [];
